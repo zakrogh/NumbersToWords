@@ -22,6 +22,30 @@ This console application receives an integer input from the user and displays it
 * _The program will check that the integer is valid._
 * _The input: 1, will display output: "One"._
 * _The program will display the english word of the inputted number._
+* dictionary1:
+1: One
+2: Two
+...
+9: Nine
+
+  dictionary2:
+10: Ten
+11: Eleven
+...
+19: Nineteen
+
+  dictionary3:
+20: Twenty
+30: Thirty
+...
+90: Ninety
+
+  dictionary4:
+100: Hundred
+1000: Thousand
+1,000,000: Million
+1,000,000,000: Billion
+1,000,000,000,000: Trillion
 
 
 ## Support and contact details
